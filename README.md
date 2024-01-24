@@ -5,4 +5,4 @@ Utilized React to design an appealing and user-friendly front-end interface for 
 
 Implemented JavaScript for writing the website's dynamic functionalities and interactivity. Used Node.JS for database management and Express.JS for I/O operations.
 
-Integrated MongoDB as the database to store and manage movie information, user data, and preferences.
+Integrated MongoDB as the database to store and manage application information, user data, and preferences.
